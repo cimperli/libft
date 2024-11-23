@@ -1,4 +1,5 @@
 #inclede <unistd.h>
+#include "libft.h"
 void    *ft_memset(void *s, int c, size_t n)
 {
     unsigned char   *p;
@@ -13,5 +14,5 @@ void    *ft_memset(void *s, int c, size_t n)
         p[i] = value;
         i++;
     }
-    return (s)
+    return (s);
 }

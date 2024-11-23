@@ -1,5 +1,6 @@
 #include <unistd.h>
 #include <stdlib.h> // Per malloc
+#include "libft.h"
 
 // Funzione ausiliaria per calcolare la lunghezza della stringa
 size_t ft_strlen(const char *s) {

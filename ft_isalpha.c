@@ -6,11 +6,12 @@
 /*   By: caimperl <caimperl@student.42firenze.it    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/11/18 12:55:55 by caimperl          #+#    #+#             */
-/*   Updated: 2024/11/18 14:24:21 by caimperl         ###   ########.fr       */
+/*   Updated: 2024/11/23 12:35:21 by caimperl         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include	<stdio.h>
+#include "libft.h"
 // #include <ctype.h>
 
 int ft_isalpha(int c)
